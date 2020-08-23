@@ -2,7 +2,7 @@ require("dotenv").config();
 
 module.exports = {
   env: {
-    YOUR_GA_TRACKING_ID: "UA-174135543-1", // 谷歌分析id
+    YOUR_GA_TRACKING_ID: "UA-176044030-1", // 谷歌分析id
   },
   serverRuntimeConfig: {},
   publicRuntimeConfig: {
